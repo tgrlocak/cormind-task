@@ -1,0 +1,44 @@
+{
+    "machineStats": [
+        {
+            "id": 1,
+            "minCycle": 1000,
+            "maxCycle": 20000,
+            "status": 0,
+            "processStatus": 1,
+            "prodAmount": 95910,
+            "defectAmount": 0,
+            "amountChange": 0,
+            "workDuration": 28795992,
+            "loadAmount": 0,
+            "dropAmount": 0,
+            "expectedProdAmount": 0,
+            "failureDuration": 0,
+            "breakDuration": 0,
+            "availability": 0,
+            "performance": 83,
+            "quality": 100,
+            "oee": 0
+        },
+        {
+            "id": 2,
+            "minCycle": 1000,
+            "maxCycle": 20000,
+            "status": -1,
+            "processStatus": 1,
+            "prodAmount": 0,
+            "defectAmount": 0,
+            "amountChange": 0,
+            "workDuration": 0,
+            "loadAmount": 0,
+            "dropAmount": 0,
+            "expectedProdAmount": 0,
+            "failureDuration": 0,
+            "breakDuration": 0,
+            "availability": 0,
+            "performance": 0,
+            "quality": 0,
+            "oee": 0
+        }
+    ]
+}

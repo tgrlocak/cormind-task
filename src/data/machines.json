@@ -1,0 +1,82 @@
+{
+    "data": {
+        "entities": [
+            {
+                "id": 1,
+                "name": "ÇİKOLATA 1",
+                "prod_line_id": 1,
+                "machine_group_type_id": 1,
+                "parent": null,
+                "sorting_no": 1,
+                "min_cycle": 1000,
+                "cycle": 2500,
+                "max_cycle": 20000,
+                "amount": 10,
+                "should_ignore_on_quality_control": true,
+                "x": 100,
+                "y": 100,
+                "barcode": "ÇİKOLATA1",
+                "extra": {},
+                "created_at": 1615056621793,
+                "updated_at": 1615056621793,
+                "prod_line": {
+                    "id": 1,
+                    "name": "ÇİKOLATA 1",
+                    "plant_id": 1,
+                    "created_at": 1615056621789,
+                    "updated_at": 1615056621789,
+                    "plant": {
+                        "id": 1,
+                        "name": "Çikolata Fabrikası",
+                        "created_at": 1615056620415,
+                        "updated_at": 1615056620415
+                    }
+                },
+                "machine_group_type": {
+                    "id": 1,
+                    "value": "ÇİKOLATA",
+                    "created_at": 1615056620502,
+                    "updated_at": 1615056620502
+                }
+            },
+            {
+                "id": 2,
+                "name": "ÇİKOLATA 2",
+                "prod_line_id": 2,
+                "machine_group_type_id": 1,
+                "parent": null,
+                "sorting_no": 2,
+                "min_cycle": 1000,
+                "cycle": 2500,
+                "max_cycle": 20000,
+                "amount": 10,
+                "should_ignore_on_quality_control": true,
+                "x": 100,
+                "y": 100,
+                "barcode": "ÇİKOLATA2",
+                "extra": {},
+                "created_at": 1615056621854,
+                "updated_at": 1615056621854,
+                "prod_line": {
+                    "id": 2,
+                    "name": "ÇİKOLATA 2",
+                    "plant_id": 1,
+                    "created_at": 1615056621845,
+                    "updated_at": 1615056621845,
+                    "plant": {
+                        "id": 1,
+                        "name": "Çikolata Fabrikası",
+                        "created_at": 1615056620415,
+                        "updated_at": 1615056620415
+                    }
+                },
+                "machine_group_type": {
+                    "id": 1,
+                    "value": "ÇİKOLATA",
+                    "created_at": 1615056620502,
+                    "updated_at": 1615056620502
+                }
+            }
+        ]
+    }
+}
